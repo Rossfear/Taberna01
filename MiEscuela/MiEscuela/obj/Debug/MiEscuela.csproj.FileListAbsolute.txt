@@ -1,0 +1,13 @@
+c:\users\booth01-mgr2\documents\visual studio 2015\Projects\MiEscuela\MiEscuela\bin\Debug\MiEscuela.exe.config
+c:\users\booth01-mgr2\documents\visual studio 2015\Projects\MiEscuela\MiEscuela\bin\Debug\MiEscuela.exe
+c:\users\booth01-mgr2\documents\visual studio 2015\Projects\MiEscuela\MiEscuela\bin\Debug\MiEscuela.pdb
+c:\users\booth01-mgr2\documents\visual studio 2015\Projects\MiEscuela\MiEscuela\obj\Debug\MiEscuela.csprojResolveAssemblyReference.cache
+c:\users\booth01-mgr2\documents\visual studio 2015\Projects\MiEscuela\MiEscuela\obj\Debug\MiEscuela.exe
+c:\users\booth01-mgr2\documents\visual studio 2015\Projects\MiEscuela\MiEscuela\obj\Debug\MiEscuela.pdb
+C:\Users\AREA DE SISTEMAS\Downloads\Compressed\archivos_base_programacion_orientada_objetos\archivos_base_programacion_orientada_objetos\MiEscuela\MiEscuela\bin\Debug\MiEscuela.exe.config
+C:\Users\AREA DE SISTEMAS\Downloads\Compressed\archivos_base_programacion_orientada_objetos\archivos_base_programacion_orientada_objetos\MiEscuela\MiEscuela\bin\Debug\MiEscuela.exe
+C:\Users\AREA DE SISTEMAS\Downloads\Compressed\archivos_base_programacion_orientada_objetos\archivos_base_programacion_orientada_objetos\MiEscuela\MiEscuela\bin\Debug\MiEscuela.pdb
+C:\Users\AREA DE SISTEMAS\Downloads\Compressed\archivos_base_programacion_orientada_objetos\archivos_base_programacion_orientada_objetos\MiEscuela\MiEscuela\obj\Debug\MiEscuela.csprojAssemblyReference.cache
+C:\Users\AREA DE SISTEMAS\Downloads\Compressed\archivos_base_programacion_orientada_objetos\archivos_base_programacion_orientada_objetos\MiEscuela\MiEscuela\obj\Debug\MiEscuela.csproj.CoreCompileInputs.cache
+C:\Users\AREA DE SISTEMAS\Downloads\Compressed\archivos_base_programacion_orientada_objetos\archivos_base_programacion_orientada_objetos\MiEscuela\MiEscuela\obj\Debug\MiEscuela.exe
+C:\Users\AREA DE SISTEMAS\Downloads\Compressed\archivos_base_programacion_orientada_objetos\archivos_base_programacion_orientada_objetos\MiEscuela\MiEscuela\obj\Debug\MiEscuela.pdb
